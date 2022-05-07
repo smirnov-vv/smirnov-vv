@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on parsing wsdl documents service as a chrome extension
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning full stack web development
 - 📫 How to reach me: vsmirnov.pro@gmail.com, https://t.me/slav_smirnov
 <!--
 - 😄 Pronouns: ...
